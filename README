@@ -1,0 +1,28 @@
+Implementation of abstractions from scratch in Java:-
+
+A) These files implement some basic abstractions in java like:-
+
+ 1)Array,
+
+ 2)Nested Sequences for storing both default data types and user defined datatypes,
+
+ 3)Mapings of data for Keyvalue pairs,
+
+
+
+B) all of these are implemented from scratch just by using integer and character datatypes and inheritance, binding features in java.
+
+Once created these abstarctions theses files also contains the operations on these datatypes like:-
+
+1) deep copying and 
+ 
+2)flattening the nested sequence.
+
+
+C)Created iterators for all the above implemented for accessing and modifying easily.
+
+
+D)sequences are implemented both in one two dimensions with nesting feature.
+
+
+E)Mapping the give sequence of different datatypes with onother sequence so that if any variable present in one of the comparing sequence. that variable get the value of counterpart.
